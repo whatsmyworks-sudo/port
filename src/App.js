@@ -23,7 +23,8 @@ import {
   Code,
   TestTube,
 } from "lucide-react";
-import "./portfolio.css";
+
+import "./App.css";
 
 const App = () => {
   const [activeSection, setActiveSection] = useState("about");
